@@ -88,18 +88,30 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `I`    | `↖` Home       | cursor to line(doc) head |
 | `O`    | `↘`  End       | cursor to line(doc) end  |
 | `P`    | `⇟` PageDn     | cursor page down         |
-| `⌘H`    | `⇧←` LeftArrow  | cursor left and selection         |
-| `⌘J`    | `⇧↓` DownArrow  | cursor down and selection         |
-| `⌘K`    | `⇧↑` UpArrow    | cursor up and selection         |
-| `⌘L`    | `⇧→` RightArrow | cursor right and selection         |
+| `⇧H`    | `⇧←` LeftArrow  | cursor left and selection         |
+| `⇧J`    | `⇧↓` DownArrow  | cursor down and selection         |
+| `⇧K`    | `⇧↑` UpArrow    | cursor up and selection         |
+| `⇧L`    | `⇧→` RightArrow | cursor right and selection         |
+| `⌘H`    | `⌃⇧⇥` LeftArrow  | prev tab         |
+| `⌘J`    | `⌘⇥` DownArrow  | switch window         |
+| `⌘K`    | `⌘⇧⇥` UpArrow    | cursor up and selection         |
+| `⌘L`    | `⌃⇥` RightArrow | next tab         |
 | `⌥H`    | `←` LeftArrow  | mouse left              |
 | `⌥J`    | `↓` DownArrow  | mouse down              |
 | `⌥K`    | `↑` UpArrow    | mouse up                |
 | `⌥L`    | `→` RightArrow | mouse right             |
-| `⌃H`    | `←` LeftArrow  | expose all              |
-| `⌃J`    | `↓` DownArrow  | show desktops              |
-| `⌃K`    | `↑` UpArrow    | switch prev desktop               |
+| `⌃H`    | `←` LeftArrow  | switch prev desktop              |
+| `⌃J`    | `↓` DownArrow  | expose all              |
+| `⌃K`    | `↑` UpArrow    | show desktops               |
 | `⌃L`    | `→` RightArrow | switch next desktop        |
+| `W`    | `⌥→` LeftArrow  | next word              |
+| `B`    | `⌥←` DownArrow  | prev word              |
+| `⇧W`    | `⇧⌥→` LeftArrow  | next word and selection              |
+| `⇧B`    | `⇧⌥←` DownArrow  | prev word and selection              |
+| `4`    | `⌘→` LeftArrow  | end of line              |
+| `0`    | `⌘←` DownArrow  | start of line              |
+| `⇧4`    | `⇧⌥→` LeftArrow  | end of line and selection              |
+| `⇧0`    | `⇧⌥←` DownArrow  | start of line and selection              |
 
 
 
